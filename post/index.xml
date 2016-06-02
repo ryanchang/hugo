@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on My New Hugo Site </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://ryanchang.github.io/post/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 01 Jun 2016 15:06:16 HKT</updated>
+    
+    <item>
+      <title>welcome</title>
+      <link>http://ryanchang.github.io/post/welcome/</link>
+      <pubDate>Wed, 01 Jun 2016 15:06:16 HKT</pubDate>
+      
+      <guid>http://ryanchang.github.io/post/welcome/</guid>
+      <description>&lt;p&gt;Hi, this is Ryan.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
