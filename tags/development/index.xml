@@ -3,7 +3,7 @@
   <channel>
       <title>Development on My New Hugo Site </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://ryanchang.github.io/tags/development/</link>
+    <link>/tags/development/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>welcome</title>
-      <link>http://ryanchang.github.io/post/welcome/</link>
+      <link>/post/welcome/</link>
       <pubDate>Wed, 01 Jun 2016 15:06:16 HKT</pubDate>
       
-      <guid>http://ryanchang.github.io/post/welcome/</guid>
+      <guid>/post/welcome/</guid>
       <description>&lt;p&gt;Hi, this is Ryan.&lt;/p&gt;
 </description>
     </item>
