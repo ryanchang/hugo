@@ -3,7 +3,7 @@
   <channel>
       <title>Golang on My New Hugo Site </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>/categories/golang/</link>
+    <link>http://ryanchang.github.io/hugo/categories/golang/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>welcome</title>
-      <link>/post/welcome/</link>
+      <link>http://ryanchang.github.io/hugo/post/welcome/</link>
       <pubDate>Wed, 01 Jun 2016 15:06:16 HKT</pubDate>
       
-      <guid>/post/welcome/</guid>
+      <guid>http://ryanchang.github.io/hugo/post/welcome/</guid>
       <description>&lt;p&gt;Hi, this is Ryan.&lt;/p&gt;
 </description>
     </item>
